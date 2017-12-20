@@ -1,0 +1,518 @@
+
+
+
+
+
+body {
+background-color: #eee;
+
+
+}
+
+
+
+
+
+
+
+
+.main{
+
+
+	
+	
+	height: 630px;
+	background-color: ;
+	padding-top: 40px;
+	padding-left:  0px;
+	margin-left: 100px !important;
+	margin-top: 80px !important;
+
+
+}
+
+.overview{
+
+
+	
+	height: 520px;
+	background-color: white;
+	box-shadow: -5px 5px 10px gray;
+	border-radius: 7px;
+	padding-top: 10px;
+   
+    
+
+
+	
+	
+}
+
+.infantName{
+    border-radius: 10px;
+	background-color: rgb(0, 153, 204);
+	box-shadow: -5px 5px 10px gray;
+	width: 350px;
+	height: 65px;
+	margin-top: -25px;
+	margin-left: 30px;
+	padding-top: 20px;
+    text-align: center;
+	position:absolute;
+	z-index:10
+
+
+}
+
+
+.subNav{
+  
+    border-radius: 10px;
+    background-color: rgb(0, 153, 204);
+    box-shadow: -5px 5px 10px gray;
+	width: 550px;
+	height: 65px;
+	margin-top: -25px;
+	margin-left: 540px;
+	padding-top: 20px;
+	text-align: center;
+	position:absolute;
+	z-index:10
+	
+  
+
+}
+
+.subNav ul li{
+	display: inline-block;
+	margin-right: 40px;
+	
+}
+.subNav ul li a{
+text-decoration: none;
+color: white;
+
+}
+
+.subNav ul li a:hover{
+
+	color: green;
+
+}
+
+
+
+
+.wrong{
+	color: red;
+}
+
+.infantInfo{
+       height: 140px;
+       width: 450px;
+       background-color: ;
+       padding-top: 60px;
+       padding-left: 20px;
+
+
+}
+
+.infantDetails1{
+
+	width: 100px;
+	height: 30px;
+	margin-bottom: 20px;
+	background-color: ;
+	text-align: center;
+	padding-top: 5px;
+	border-radius: 5px;
+}
+
+.overviewInfo{
+      margin-top: 50px;
+	  height: 300px;
+      background-color: ;
+      padding-top: 60px;
+       
+    
+
+
+
+}
+
+
+.overviewInfo div{
+
+	float: left;
+	margin-right: 10px;
+	width: 250px;
+	height: 200px;
+	background-color: ;
+
+	
+
+
+}
+
+
+
+
+#sleep{
+	width: 550px; 
+	height: 300px;
+	margin-top: -90px;
+	border-radius: 10px;
+	background-color: rgb(0, 153, 204);;
+
+
+
+}
+
+#sleep div{
+
+	margin-left: 90px !important;
+}
+
+
+.sleepDiv{
+    
+	margin-top: 30px;
+	width: 400px !important;
+	height: 40px !important;
+	border-radius: 10px;
+	background-color: white;
+	text-align: center;
+	padding-top: 10px;
+	border: 1px solid green;
+
+
+
+}
+
+
+
+
+
+
+.rounded{
+
+    border-radius: 100% !important;
+	height: 160px !important;
+	width: 160px !important;
+	background-color: transparent;
+	border: 2px solid green;
+	margin-left: 30px !important;
+	text-align: center;
+	padding-top: 50px;
+
+	
+	
+}
+
+.infantDetails{
+
+	float: left;
+	margin-right: 30px;
+	width: 180px;
+
+}
+
+
+.color-white{
+
+	color: white;
+}
+
+
+.temp{
+	margin-top: -30px;
+}
+
+.heartrate{
+	margin-top: -30px;
+}
+
+
+
+.sensors{
+
+	width: 550px;
+	height: 100px;
+	margin-right: 20px;
+    margin-top: -100px;
+    padding-top: 20px;
+    padding-left: 50px;
+	float: right;
+	background-color: ;
+}
+
+.sensors div, button{
+
+	float: left;
+	height: 50px;
+	width: 50px;
+	margin-right: 70px;
+	border-radius: 100%;
+
+}
+
+.sensors button{
+	background-color: transparent;
+	border: 2px solid green;
+
+}
+
+
+
+
+.watchframe{
+
+    margin: 50px 0px 10px 250px;
+	height: 370px;
+	width: 600px;
+	background-color: black;
+}
+
+.swingBtn{
+  
+  margin-left: 450px;
+  width: 200px;
+
+}
+
+
+.notification{
+
+    height: 150px;
+    width: 210px;
+    background-color: #eee; 
+    margin: 0px 15px 20px 30px;
+    float: left;
+
+}
+
+
+
+.registration{
+
+    
+	background-color: white;
+	margin-top: 60px;
+	padding-top: 30px;
+	height: 600px;
+
+}
+
+.reg-form{
+
+	margin: 20px 0px 0px 300px;
+	background-color: ;
+	width: 550px;
+	padding-left: 100px;
+	padding-top: 30px;
+}
+
+.reg-form button{
+	
+	width: 200px;
+
+}
+
+.reg-Divinput{
+
+    width: 400px;
+
+}
+div{
+
+	font-family: 'Roboto', sans-serif;
+}
+
+
+
+
+
+.login{
+	background-color: white;
+	margin-top: 60px;
+	padding-top: 10px;
+
+
+
+}
+
+.login-header{
+
+
+	height: 70px;
+	background-color: rgb(63, 92, 128);
+	padding: 20px 0px 0px 70px;
+	color: white;
+}
+
+
+.login-form{
+
+	margin: 70px 0px 30px 300px;
+	background-color: ;
+	width: 550px;
+
+	padding-left: 0px;
+	padding-top: 30px;
+
+
+}
+
+.login-form button{
+
+	width: 170px;
+	height: 40px;
+
+	}
+
+.login-Divinput{
+
+  width: 200px;
+}
+
+.links{
+	margin-top: 0px;
+	margin-right: 20px;
+}
+
+
+ .progress {
+        width: 0;
+        height: 4px;
+        background: black;
+        transition: width .3s linear;
+    }
+
+
+
+
+.addInfantForm{
+
+
+	width: 600px;
+	height: 300px;
+	background-color: ;
+	margin: 80px 0px 0px 250px;
+	padding: 40px 0px 0px 100px;
+}
+
+.addInfantForm input{
+
+	width: 250px;
+	border-width: 2px;
+	height: 40px;
+}
+
+.addInfantForm button{
+
+    margin-top: 30px;
+	width: 150px;
+	height: 40px;
+}
+
+
+
+.illnessDiv{
+
+   width: 600px;
+   height: 4-0px;
+   background-color: ;
+   margin: 20px 0px -20px 230px;
+   padding: 40px 0px 0px 80px;
+
+
+
+
+}
+
+
+.illnessDiv input{
+
+	width: 300px;
+	height: 35px;
+	border-width: 1px;
+}
+
+.illnessDiv button{
+    height: 35px;
+    width: 100px;
+    margin-top: 20px;
+    
+}
+.illnessReviwe{
+
+	margin-top: 40px;
+	  width: 300px;
+	height: 35px;
+	border-width: 1px;
+}
+
+
+
+
+
+.material-switch > input[type="checkbox"] {
+    display: none; 
+
+}
+
+.material-switch > label {
+    cursor: pointer;
+    height: 0px;
+    position: relative; 
+    width: 40px;  
+}
+
+.material-switch > label::before {
+    background: rgb(0, 0, 0);
+    box-shadow: inset 0px 0px 10px rgba(0, 0, 0, 0.5);
+    border-radius: 8px;
+    content: '';
+    height: 16px;
+    margin-top: -8px;
+    position:absolute;
+    opacity: 0.3;
+    transition: all 0.4s ease-in-out;
+    width: 40px;
+}
+.material-switch > label::after {
+    background: rgb(255, 255, 255);
+    border-radius: 16px;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3);
+    content: '';
+    height: 24px;
+    left: -4px;
+    margin-top: -8px;
+    position: absolute;
+    top: -4px;
+    transition: all 0.3s ease-in-out;
+    width: 24px;
+}
+.material-switch > input[type="checkbox"]:checked + label::before {
+    background: rgb(92, 184, 92);
+    opacity: 0.5;
+}
+.material-switch > input[type="checkbox"]:checked + label::after {
+    background: rgb(92, 184, 92);
+    left: 20px;
+}
+
+
+.Med-Times{
+
+
+	border-width: 0px !important;
+}
+
+
+table { table-layout: fixed; }
+td { width: 10%;
+     text-align: center; }
+th { width: 10%;
+     text-align: center; }
+
